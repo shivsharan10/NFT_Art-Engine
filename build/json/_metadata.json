@@ -1,0 +1,1602 @@
+[
+  {
+    "name": "Surreal-Funkies #1",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/1.png",
+    "dna": "2280874b46c9c9153aecc554a7112d8795801839",
+    "edition": 1,
+    "date": 1649785296739,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG3"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B9"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F1"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i11"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M8"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #2",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/2.png",
+    "dna": "dded30b5e892106b2aa77b1dbc151ecf5e1bf029",
+    "edition": 2,
+    "date": 1649785300805,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG18"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B9"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F14"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i14"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M7"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #3",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/3.png",
+    "dna": "bceae27c9d88e30e7a9cd6b8d1e8a58d84828b52",
+    "edition": 3,
+    "date": 1649785304825,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG3"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B4"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F18"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i5"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #4",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/4.png",
+    "dna": "aa73e28e4918a069d39c33bf61e2b3c491baf897",
+    "edition": 4,
+    "date": 1649785308850,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG2"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B14"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F14"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i14"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #5",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/5.png",
+    "dna": "fdd5766894e1d50f0af15f494af4fba7e7f1c52e",
+    "edition": 5,
+    "date": 1649785312777,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG5"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B20"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F1"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i3"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #6",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/6.png",
+    "dna": "bca5df1b8ed018cb7c511c887145694d95405b46",
+    "edition": 6,
+    "date": 1649785317434,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG4"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B16"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F11"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i4"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M7"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #7",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/7.png",
+    "dna": "fb1da7e1657e85559decb5c42fb3939bd79e0550",
+    "edition": 7,
+    "date": 1649785321117,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG6"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B7"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F6"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i10"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M15"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #8",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/8.png",
+    "dna": "5eb8d79e54c4f60b2f30df8248a2c08129142ebc",
+    "edition": 8,
+    "date": 1649785332830,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG23"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B20"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F8"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i9"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M7"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #9",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/9.png",
+    "dna": "f855c45b69d0bf6a6ac612f1b880d0a07e38a5ed",
+    "edition": 9,
+    "date": 1649785336135,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG9"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B1"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F9"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i7"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M8"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #10",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/10.png",
+    "dna": "2dbbadfcf1b98408f8359f67b558da807eebc025",
+    "edition": 10,
+    "date": 1649785339392,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG12"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B1"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F1"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i6"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M8"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #11",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/11.png",
+    "dna": "7189b72ba04fdd0bb88c32f26300a02cae76b809",
+    "edition": 11,
+    "date": 1649785342673,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG14"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B22"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F1"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i12"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #12",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/12.png",
+    "dna": "96fe2badff0d244dbd9337967f14127d924875f1",
+    "edition": 12,
+    "date": 1649785346222,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG25"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B8"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F9"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i3"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M10"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #13",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/13.png",
+    "dna": "d31e78928dd0305e3b23522944f12945c25d325e",
+    "edition": 13,
+    "date": 1649785350194,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG16"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B11"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F1"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i6"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M13"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #14",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/14.png",
+    "dna": "ece9b74bfa289e24ab1cdb5c7ed8b481a6020e22",
+    "edition": 14,
+    "date": 1649785354024,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG20"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B8"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F18"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i5"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M10"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #15",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/15.png",
+    "dna": "28ce77d79d33fe4cba160f34149e06a200de5f91",
+    "edition": 15,
+    "date": 1649785357677,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG24"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B22"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F4"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i7"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M15"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #16",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/16.png",
+    "dna": "36fd7472ba2e829718522ac0ab1dbe3b5fa3509f",
+    "edition": 16,
+    "date": 1649785361448,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG2"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B7"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F2"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i7"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M8"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #17",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/17.png",
+    "dna": "4346ecd309723418489ceaee282c1089b981f734",
+    "edition": 17,
+    "date": 1649785364850,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG12"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B3"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F25"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i13"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #18",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/18.png",
+    "dna": "d182a77e6acb89315517188e6551c425331aba3e",
+    "edition": 18,
+    "date": 1649785368486,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG24"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B4"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F13"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i6"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M11"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #19",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/19.png",
+    "dna": "20b1ac72c73e55a30b03fcb4ef768a081063b544",
+    "edition": 19,
+    "date": 1649785372157,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG20"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B2"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F15"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i4"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M15"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #20",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/20.png",
+    "dna": "6ce70359206a5bd261a9e0ecc16a8b069bb5d62f",
+    "edition": 20,
+    "date": 1649785376185,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG22"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B23"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F17"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i2"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #21",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/21.png",
+    "dna": "7965c3d36f097ef9e230542db633db3e313b2f03",
+    "edition": 21,
+    "date": 1649785380225,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG16"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B11"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F20"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i14"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #22",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/22.png",
+    "dna": "b60229d40fdabbba72392b37093df5e3bfe69e29",
+    "edition": 22,
+    "date": 1649785383428,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG10"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B12"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F10"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i9"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M15"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #23",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/23.png",
+    "dna": "61bd8e1b14b3f10a3d2da57f085e98e0cd9bf2b3",
+    "edition": 23,
+    "date": 1649785386664,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG13"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B15"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F1"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i14"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M11"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #24",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/24.png",
+    "dna": "07eed97bd7abd869042b9dc104e04f480ef87d86",
+    "edition": 24,
+    "date": 1649785390340,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG13"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B13"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F13"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i10"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M8"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #25",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/25.png",
+    "dna": "5f058e9735a57ad45b5f88115f9008d6877d0dd9",
+    "edition": 25,
+    "date": 1649785394332,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG4"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B7"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F19"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i13"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M13"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #26",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/26.png",
+    "dna": "ad040c52cae26384c32dcca317268110d381f2ed",
+    "edition": 26,
+    "date": 1649785401066,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG14"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B21"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F22"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i4"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #27",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/27.png",
+    "dna": "dc2aab9a50392b9d4aece12b72b3348ac7c5a46f",
+    "edition": 27,
+    "date": 1649785404971,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG22"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B19"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F6"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #28",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/28.png",
+    "dna": "69f93c34e5732d68ee00316296c7e425ead121a9",
+    "edition": 28,
+    "date": 1649785408932,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG18"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B5"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F14"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i8"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M15"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #29",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/29.png",
+    "dna": "392cb942a21f255affe6073aaa5cea3fcb54af45",
+    "edition": 29,
+    "date": 1649785412973,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG21"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B23"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F25"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i3"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #30",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/30.png",
+    "dna": "8f470e76f1f8a4e5e9a405b0bee42dc26c6c298a",
+    "edition": 30,
+    "date": 1649785416498,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG25"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B13"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F6"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i5"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M12"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #31",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/31.png",
+    "dna": "a5e9d4f67c8fa147900f78b585eba350159a84f4",
+    "edition": 31,
+    "date": 1649785420141,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG6"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B4"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F15"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i6"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M14"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #32",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/32.png",
+    "dna": "19d264601d5c18313e80949f2a9e1573ae79e266",
+    "edition": 32,
+    "date": 1649785424315,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG2"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B14"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F3"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i4"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M14"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #33",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/33.png",
+    "dna": "d4fb35f25a5580ac18549d83aed663a2c78f4d0f",
+    "edition": 33,
+    "date": 1649785427941,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG19"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B12"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F23"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i9"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M5"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #34",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/34.png",
+    "dna": "e3a4390c33842b91906029f9a3c79cef4cfa1450",
+    "edition": 34,
+    "date": 1649785431496,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG25"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B19"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F23"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i9"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M7"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #35",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/35.png",
+    "dna": "766b016a01328f2256b9b0e6bb8fa04d927cac4e",
+    "edition": 35,
+    "date": 1649785443524,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG23"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B16"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F19"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i7"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #36",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/36.png",
+    "dna": "0f540476c26ca593e13f11362c417370e5c7168d",
+    "edition": 36,
+    "date": 1649785447223,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG17"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B25"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F24"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M12"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #37",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/37.png",
+    "dna": "f5b9abe1802047718e337c4661323cebc854c7b3",
+    "edition": 37,
+    "date": 1649785459026,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG23"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B4"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F5"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i10"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #38",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/38.png",
+    "dna": "ada2c5f4733ec9791ae94c73485d43354cc208ba",
+    "edition": 38,
+    "date": 1649785462376,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG11"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B13"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F8"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i15"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M14"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #39",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/39.png",
+    "dna": "0bcde0e4b76880b8597c94e67dfd50d9d35cf0f4",
+    "edition": 39,
+    "date": 1649785465897,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG1"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B18"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F12"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M8"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #40",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/40.png",
+    "dna": "494654b1bf27dd01a66f9a49bd36603bafba7ed3",
+    "edition": 40,
+    "date": 1649785470796,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG15"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B21"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F19"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i11"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M5"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #41",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/41.png",
+    "dna": "2212ffba3b71805766c41486cd11461d8f4d3ecf",
+    "edition": 41,
+    "date": 1649785474066,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG7"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B17"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F15"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i13"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #42",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/42.png",
+    "dna": "ecf61de8df8b062757fa905e81ed8a78d25e5681",
+    "edition": 42,
+    "date": 1649785477994,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG22"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B22"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F11"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i11"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M14"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #43",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/43.png",
+    "dna": "b5107b0f68d131c531cd93853d0863f87742ba9a",
+    "edition": 43,
+    "date": 1649785481492,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG25"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B19"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F20"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M8"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #44",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/44.png",
+    "dna": "f2689c7da2d9f706ed1bd7f4b6f0b6484522dfb8",
+    "edition": 44,
+    "date": 1649785485409,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG21"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B4"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F11"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i3"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M9"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #45",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/45.png",
+    "dna": "bd2b30a8d6e166432818de639d554e7462e9cafc",
+    "edition": 45,
+    "date": 1649785490237,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG15"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B21"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F12"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i11"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #46",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/46.png",
+    "dna": "b50cbc501b153bc404d1c0c458969960284d59d7",
+    "edition": 46,
+    "date": 1649785493948,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG6"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B9"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F22"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i14"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M15"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #47",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/47.png",
+    "dna": "669eeb657d6fa471046846ef793a69ce47a066b9",
+    "edition": 47,
+    "date": 1649785497686,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG19"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B9"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F2"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i12"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M14"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #48",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/48.png",
+    "dna": "55110f65dcaaa421046788e898b6a2ede7f5b75d",
+    "edition": 48,
+    "date": 1649785500990,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG10"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B1"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F4"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i9"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M10"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #49",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/49.png",
+    "dna": "ac36977f23757bb8245af442ad067d9b07df9412",
+    "edition": 49,
+    "date": 1649785504876,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG21"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B22"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F12"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i1"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M6"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Surreal-Funkies #50",
+    "description": "50 Unique Funkies",
+    "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/50.png",
+    "dna": "9c55a890dd99383abd4f33611bd451f1d3b52d09",
+    "edition": 50,
+    "date": 1649785508468,
+    "creator": "Shivsharan Patil",
+    "attributes": [
+      {
+        "trait_type": "Backgrounds",
+        "value": "BG24"
+      },
+      {
+        "trait_type": "Body",
+        "value": "B7"
+      },
+      {
+        "trait_type": "Face",
+        "value": "F19"
+      },
+      {
+        "trait_type": "Jeyes",
+        "value": "i12"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "M14"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

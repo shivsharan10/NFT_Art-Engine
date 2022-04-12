@@ -1,0 +1,32 @@
+{
+  "name": "Surreal-Funkies #41",
+  "description": "50 Unique Funkies",
+  "image": "ipfs://QmRNhF1nWFhFFAFTrDxiJH2egjTzkrM6eSTMBNEVwxTLA2/41.png",
+  "dna": "2212ffba3b71805766c41486cd11461d8f4d3ecf",
+  "edition": 41,
+  "date": 1649785474066,
+  "creator": "Shivsharan Patil",
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "BG7"
+    },
+    {
+      "trait_type": "Body",
+      "value": "B17"
+    },
+    {
+      "trait_type": "Face",
+      "value": "F15"
+    },
+    {
+      "trait_type": "Jeyes",
+      "value": "i13"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "M6"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
